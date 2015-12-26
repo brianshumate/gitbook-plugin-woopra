@@ -1,6 +1,6 @@
 # gitbook-plugin-woopra
 
-Basic Woopra tracking for GitBooks
+Basic Woopra analytics for your [GitBook](https://www.gitbook.com)
 
 Install with npm:
 
@@ -28,3 +28,6 @@ Configure your book domain and idle timeout in `book.json`:
     }
 }
 ```
+
+More coming soon, PRs welcome, YMMV, HAND.
+
