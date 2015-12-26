@@ -1,0 +1,10 @@
+.DS_Store
+logs
+*.log
+pids
+*.pid
+*.seed
+lib-cov
+coverage
+build/Release
+node_modules
